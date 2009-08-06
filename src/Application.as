@@ -7,7 +7,8 @@ package {
 
 	[SWF(frameRate="30", backgroundColor="0x777777")]
 
-       // ist schon ganz cool
+       // ist schon ganz toll
+
 
 
 
