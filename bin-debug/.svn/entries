@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/html-template"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name=""
+   kind="dir"
+   committed-rev="82"/>
+<entry
+   checksum="c59b6ec0b4911bf16ae3538c2fdfecd9"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="AC_OETags.js"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   name="history"
+   kind="dir"/>
+<entry
+   checksum="0f3e29e60c633b5ac9afcb09887e00b2"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="index.template.html"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="1afe3121280ca45f8dcfc2abc05bd7c8"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="index2.template.html"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   kind="dir"
+   name="js"/>
+<entry
+   checksum="be332eb9be4b3dcfdcd757bbc6e495e5"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:12.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="playerProductInstall.swf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   kind="dir"
+   name="swfaddress"/>
+<entry
+   name="swfobject"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/model"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name=""
+   kind="dir"
+   committed-rev="82"/>
+<entry
+   checksum="7fa10828cbf07b8fd1616f966758e110"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T07:14:01.000000Z"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   name="KontaktProxy.as"
+   kind="file"
+   committed-rev="80"/>
+<entry
+   checksum="13b56e8673794db0ba82c88b81b5114f"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T07:14:01.000000Z"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   name="KontaktVO.as"
+   kind="file"
+   committed-rev="80"/>
+<entry
+   checksum="8cb7215bf375d36d87c8a84792fa998c"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T15:18:09.000000Z"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name="MainMenuStatusProxy.as"
+   kind="file"
+   committed-rev="81"/>
+<entry
+   checksum="a21b301e49af54ede14f5ff3f39a8651"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="ResizeProxy.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="661023eeb20a944edea9e623c1f5a41c"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T22:34:11.000000Z"
+   committed-date="2009-06-29T22:34:11.791481Z"
+   name="RightboxProxy.as"
+   kind="file"
+   committed-rev="75"/>
+<entry
+   checksum="141f3250390ac227cdeaf2099ecb4dc2"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="SWFAddressProxy.as"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="946ae6386ab610bc50b104683e4c8eed"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="SubMenuNumberStatusProxy.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="6bfba3e092ad10a5eb8c300871c413a3"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="SubMenuStatusProxy.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="364ebb49f5794adf4229c15c86d7969c"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T07:14:01.000000Z"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   name="SubMenuVO.as"
+   kind="file"
+   committed-rev="80"/>
+<entry
+   checksum="afe27afca4d3ec6a06bff1eb819a6349"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-03T14:35:50.000000Z"
+   committed-date="2009-07-03T14:35:50.145080Z"
+   name="UberUnsStatusProxy.as"
+   kind="file"
+   committed-rev="79"/>
+<entry
+   checksum="a93a7330915fff2b7bae7fc3eaf761c0"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-03T14:35:50.000000Z"
+   committed-date="2009-07-03T14:35:50.145080Z"
+   name="UberUnsVO.as"
+   kind="file"
+   committed-rev="79"/>
+<entry
+   checksum="57dbb73dcaeb059eb85ca8baa3ef22dc"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="WorkNaviProxy.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="753b5b82002bd71710fb94309d2e041b"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T15:18:09.000000Z"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name="XMLDataProxy.as"
+   kind="file"
+   committed-rev="81"/>
+</wc-entries>

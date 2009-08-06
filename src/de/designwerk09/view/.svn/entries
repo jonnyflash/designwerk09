@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/view"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name=""
+   kind="dir"
+   committed-rev="82"/>
+<entry
+   checksum="f1119b702ecafa899f6861cc710110f8"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T15:18:09.000000Z"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name="KontaktMediator.as"
+   kind="file"
+   committed-rev="81"/>
+<entry
+   checksum="e2ede358e9224303e5b546891a1c99c7"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="LeftboxMediator.as"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="717f171cbcda86281c5e51889e17fb35"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="MainMenuMediator.as"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="713d92c8a57156c86c63997d8277a133"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="RightboxMediator.as"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="81f1344687e7a3dc0923fd993bfcd1f5"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="StageMediator.as"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="75223f530018ed9cc602676afee9fd23"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T15:18:09.000000Z"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name="SubMenuMediator.as"
+   kind="file"
+   committed-rev="81"/>
+<entry
+   checksum="cf3b0861ae5bea9df58ff1e70b6986c5"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T15:18:09.000000Z"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name="SubNumberNaviMediator.as"
+   kind="file"
+   committed-rev="81"/>
+<entry
+   checksum="bbefc1513d6c60002459e283087a976b"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T15:18:09.000000Z"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name="UberUnsMediator.as"
+   kind="file"
+   committed-rev="81"/>
+<entry
+   checksum="ef29823fc6ed5146c26216db9c659963"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T15:18:09.000000Z"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name="WorkNaviMediator.as"
+   kind="file"
+   committed-rev="81"/>
+<entry
+   name="assets"
+   kind="dir"/>
+<entry
+   kind="dir"
+   name="components"/>
+</wc-entries>

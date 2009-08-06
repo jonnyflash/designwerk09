@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <root>
+ 	
+	
+	
+	
+	
+ 	<uberuns>
+ 			<description><![CDATA[<p>Gestaltung über den Tag hinaus. Verantwortung gegenüber <br>dem Kunden und respektvoll gegenüber den anzusprechenden <br>Zielgruppen. Ergebnisse unserer Arbeiten sind kundenorientiert, <br>marktgerecht und eigenständig. Langlebig und lebendig. <br></p>]]></description>	
+ 			<startscreen url="images/startbilder/startbild_ueberuns.jpg" />
+			
+			<person>
+				<description><![CDATA[<p>Uwe Faerber | Dipl.-Designer</p>]]></description>
+				<img url="images/ueberuns/uwe.jpg" />	
+			</person>
+
+			<person>
+				<description><![CDATA[<p>Felix Faerber | Flash-Programmierer</p>]]></description>
+				<img url="images/ueberuns/felix.jpg" />	
+			</person>
+			
+	</uberuns>
+	
+	
+	
+	
+	
+	<beispiele>
+		
+ 		<startscreen url="images/startbilder/startbild_arbeiten.jpg" />
+		
+		<item name="Corporate Design">
+			<title><![CDATA[Corporate Design]]></title>
+			
+			<startscreen url="images/startbilder/startbild_identity.jpg" />
+			
+			<work>
+				<description><![CDATA[<p>Herbert-Gerisch-Stiftung<br>Signetentwicklung | Anwendungsbeispiele</p>]]></description>	
+				<content>
+					<img url="images/corporatedesign/hgs_02.01.jpg" />
+					<img url="images/corporatedesign/hgs_02.02.jpg" />
+					<img url="images/corporatedesign/hgs_02.03.jpg" />
+					<img url="images/corporatedesign/hgs_02.04.jpg" />
+					<img url="images/corporatedesign/hgs_02.05.jpg" />
+				
+				</content>
+			</work>
+
+
+			<work>
+				<description><![CDATA[<p>Landesgesundheitsmesse Schleswig-Holstein<br>Signetentwicklung | Anwendungsbeispiele</p>]]></description>	
+				<content>
+					<img url="images/corporatedesign/lgm_01.01.jpg" />
+					<img url="images/corporatedesign/lgm_01.02.jpg" />
+					<img url="images/corporatedesign/lgm_01.03.jpg" />
+				</content>
+			</work>
+			
+
+			<work>
+				<description><![CDATA[<p>Museum Tuch und Technik <br>Signetentwicklung | Anwendungsbeispiele (nicht realisiert)</p>]]></description>	
+				<content>
+					<img url="images/corporatedesign/tt_03.01.jpg" />
+					<img url="images/corporatedesign/tt_03.02.jpg" />
+					<img url="images/corporatedesign/tt_03.03.jpg" />
+					<img url="images/corporatedesign/tt_03.04.jpg" />
+					<img url="images/corporatedesign/tt_03.05.jpg" />
+					<img url="images/corporatedesign/tt_03.06.jpg" />
+				</content>
+			</work>
+
+
+			<work>
+				<description><![CDATA[<p>Paly Consulting<br>Signetentwicklung | Anwendungsbeispiele</p>]]></description>	
+				<content>
+					<img url="images/corporatedesign/paly_04.01.jpg" />
+					<img url="images/corporatedesign/paly_04.02.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[<p>Tungendorfer Baumschulen<br>Signetentwicklung | Anwendungsbeispiele</p>]]></description>	
+				<content>
+					<img url="images/corporatedesign/tb_zeichen.jpg" />
+					<img url="images/corporatedesign/tb_briefbogen.jpg" />
+				</content>
+			</work>
+
+
+			<work>
+				<description><![CDATA[<p>Café Harry Maasz<br>Signetentwicklung | Anwendungsbeispiele</p>]]></description>	
+				<content>
+					<img url="images/corporatedesign/cafe_06.01.jpg" />
+					<img url="images/corporatedesign/cafe_06.02.jpg" />
+					<img url="images/corporatedesign/cafe_06.03.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[<p>Axel Ihle, Steuerberater<br>Signetentwicklung | Anwendungsbeispiele</p>]]></description>	
+				<content>
+					<img url="images/corporatedesign/ihle_07.01.jpg" />
+					<img url="images/corporatedesign/ihle_07.02.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[<p>Dr. Roth, Frauenarzt, <br>Signetentwicklung | Anwendungsbeispiele</p>]]></description>	
+				<content>
+					<img url="images/corporatedesign/roth_08.01.jpg" />
+					<img url="images/corporatedesign/roth_08.02.jpg" />
+				</content>
+			</work>
+
+			
+
+		</item>
+		
+		
+		
+			
+		
+		
+		
+		<item name="Logo-Design">
+			<title><![CDATA[Logo-Design]]></title>
+			
+			<startscreen url="images/startbilder/startbild_zeichen.jpg" />
+			
+			<work>
+				<description><![CDATA[Bäckerei Andresen]]></description>	
+				<content>
+					<img url="images/logodesign/signet_01.jpg" />				
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Pferdestadt Neumünster]]></description>	
+				<content>
+					<img url="images/logodesign/signet_02.jpg" />				
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Stadt Neumünster <br>Der Schwan ist das Wappentier der Stadt.]]></description>	
+				<content>
+					<img url="images/logodesign/signet_09.jpg" />				
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Logo zur 875 Jahr Feier der Stadt Neumünster]]></description>	
+				<content>
+					<img url="images/logodesign/signet_03.jpg" />				
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Logo zum Schleswig-Holstein-Tag 2008]]></description>	
+				<content>
+					<img url="images/logodesign/signet_04.jpg" />				
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Schwanenparade in Neumünster]]></description>	
+				<content>
+					<img url="images/logodesign/signet_05.jpg" />				
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Maler Schönack]]></description>	
+				<content>
+					<img url="images/logodesign/signet_06.jpg" />				
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Naturerlebnisraum Stadtwald in Neumünster]]></description>	
+				<content>
+					<img url="images/logodesign/signet_07.jpg" />				
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Sehpunkte rund um den Einfelder See]]></description>	
+				<content>
+					<img url="images/logodesign/signet_08.jpg" />				
+				</content>
+			</work>
+
+			
+		</item>
+		
+		
+		
+		
+		
+		<item name="Grafik-Design">
+			<title><![CDATA[Grafik-Design]]></title>
+			<startscreen url="images/startbilder/startbild_grafikdesign.jpg" />
+			
+			<work>
+				<description><![CDATA[Plakat für eine Austellung in der Gerisch-Stiftung <br>Mark Dion - Über die Jagd]]></description>	
+				<content>
+					<img url="images/grafikdesign/grafik_01.jpg" />
+				</content>
+			</work>
+
+			<work>
+				<description><![CDATA[Plakat für eine Austellung in der Gerisch-Stiftung <br>Ah Xian - Skulpturen]]></description>	
+				<content>
+					<img url="images/grafikdesign/grafik_02.jpg" />
+				</content>
+			</work>
+
+			<work>
+				<description><![CDATA[Profilkatalog mit ca. 600 technischen Zeichnungen <br>Gummi Busch GmbH]]> </description>	
+				<content>
+					<img url="images/grafikdesign/gummi_01.jpg" />
+					<img url="images/grafikdesign/gummi_02.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Plakat für ein Gourmet-Festival in Neumünster <br>Gestaltung und Fotografie]]> </description>	
+				<content>
+					<img url="images/grafikdesign/grafik_03.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[LEG Entwicklung Schleswig-Holstein <br>Anzeigenserie, Gestaltung und Fotografie]]></description>	
+				<content>
+					<img url="images/grafikdesign/grafik_04.jpg" />
+					<img url="images/grafikdesign/grafik_05.jpg" />
+					<img url="images/grafikdesign/grafik_06.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Stadt Neumünster<br>Broschüren]]> </description>	
+				<content>
+					<img url="images/grafikdesign/grafik_07.jpg" />
+					<img url="images/grafikdesign/grafik_08.jpg" />
+					<img url="images/grafikdesign/grafik_09.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Tungendorfer Baumschulen<br>Plakat zum 50jährigen Jubiläum]]> </description>	
+				<content>
+					<img url="images/grafikdesign/grafik_10.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Ausbildungsverbund Neumünster<br>Plakat für die Ausstellung Ausstellung - Gipsart]]> </description>	
+				<content>
+					<img url="images/grafikdesign/grafik_11.jpg" />
+				</content>
+			</work>
+			
+		</item>
+		
+		
+		
+		
+		
+		
+		<item name="Illustration">
+			<title><![CDATA[Illustrationen]]></title>
+			<startscreen url="images/startbilder/startbild_illustrationen.jpg" />
+			
+			<work>
+				<description><![CDATA[Illustration einer hydraulischen Fahrradbremse <br>Gebaut mit Photoshop, freie Arbeit]]></description>	
+				<content>
+					<img url="images/illustrationen/bremse_01.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Isometrische Illustrationen von mobilen Wandelementen <br>Becker Trennwandsysteme]]></description>	
+				<content>
+					<img url="images/illustrationen/becker_01.jpg" />
+					<img url="images/illustrationen/becker_02.jpg" />
+					<img url="images/illustrationen/becker_03.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[3D Illustrationen von Gummi-Profilen  <br>Gebaut in Cinema 4D]]></description>	
+				<content>
+					<img url="images/illustrationen/gummi_01.jpg" />
+					<img url="images/illustrationen/gummi_02.jpg" />
+					<img url="images/illustrationen/gummi_03.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Zeichnungen klassischer BRAUN-Geräte <br>Designer Dieter Rams]]></description>	
+				<content>
+					<img url="images/illustrationen/braun_plakat.jpg" />
+					<img url="images/illustrationen/braun_tg45.jpg" />
+					<img url="images/illustrationen/braun_t1000.jpg" />
+					<img url="images/illustrationen/braun_t1000_gross.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Illustration von Hochglanzkugeln <br>Gebaut in Cinema 4D]]></description>	
+				<content>
+					<img url="images/illustrationen/kugeln.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Illustration in klassischer Filzstifttechnik <br>Buchholz Hydraulik]]></description>	
+				<content>
+					<img url="images/illustrationen/buchholz.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Illustrationen für verschiedene Anlässe <br>Aquarelltechnik]]></description>	
+				<content>
+					<img url="images/illustrationen/landesbank_01.jpg" />
+					<img url="images/illustrationen/landesbank_02.jpg" />
+				</content>
+			</work>
+
+			
+		</item>
+		
+		
+		
+		
+		
+		<item name="Web-Design">
+			<title><![CDATA[Web-Design]]></title>
+			<startscreen url="images/startbilder/startbild_webdesign.jpg" />
+			
+			<work>
+				<description><![CDATA[Ulrike Schoenack · Fassmalerei <br><a href="http://www.ulrikeschoenack.de" target="blank">»» Website besuchen</a> ]]></description>	
+				<content>
+					<img url="images/webdesign/web_01.jpg" />
+				</content>
+			</work>
+
+			<work>
+				<description><![CDATA[Steinbach + Partner · Rechtsanwälte und Notare <br><a href="http://www.steinbachpartner.de" target="blank">»» Website besuchen</a> ]]></description>	
+				<content>
+					<img url="images/webdesign/web_02.jpg" />
+				</content>
+			</work>
+
+			<work>
+				<description><![CDATA[Con-tur · Schönheitschirurgie <br><a href="http://www.con-tur.de" target="blank">»» Website besuchen</a> ]]></description>	
+				<content>
+					<img url="images/webdesign/web_03.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[Herbert-Gerisch-Stiftung · Kunststiftung <br><a href="http://www.gerisch-stiftung.de" target="blank">»» Website besuchen</a> ]]></description>	
+				<content>
+					<img url="images/webdesign/web_04.jpg" />
+				</content>
+			</work>
+			
+			<work>
+				<description><![CDATA[TR-Register Schleswig-Holstein · Oldtimer Club<br><a href="http://www.tr-sh.de" target="blank">»» Website besuchen</a> ]]></description>	
+				<content>
+					<img url="images/webdesign/web_05.jpg" />
+				</content>
+			</work>
+
+			<work>
+				<description><![CDATA[eigene Seite <br>entwickelt mit Flash9, Flex3IDE und pureMVC ]]></description>	
+				<content>
+					<img url="images/webdesign/web_06.jpg" />
+				</content>
+			</work>
+		</item>
+
+	</beispiele>
+	
+	
+	
+	
+	
+ 	<kontakt>
+		<description><![CDATA[Hauptstraße 108 <br>D-24536 Neumünster <br>Fon 04321 9298-82 <br>Fax 04321 9298-83 <br><a href="mailto:info@designwerk.com" target="_blank">info@designwerk.com</a><br><br><br><br>USt-IdNr. DE 210336723 <br>gemäß §27 a Umsatzsteuergesetz<br><br>Haftungshinweis:<br>Trotz sorgfältiger inhaltlicher Kontrolle übernehmen <br>wir keine Haftung für die Inhalte externer Links. Für<br>den Inhalt der verlinkten Seiten sind ausschließlich<br>deren Betreiber verantwortlich.]]></description>
+		<startscreen url="images/kontakt/buero.jpg" />
+	</kontakt>
+
+
+	
+	
+	
+	
+	
+ </root>

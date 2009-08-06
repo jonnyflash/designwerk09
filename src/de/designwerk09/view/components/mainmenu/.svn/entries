@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/view/components/mainmenu"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name=""
+   kind="dir"
+   committed-rev="81"/>
+<entry
+   checksum="ad64048fc47c1eb4773075b0d0411c7d"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T15:18:09.000000Z"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name="MainMenu.as"
+   kind="file"
+   committed-rev="81"/>
+</wc-entries>

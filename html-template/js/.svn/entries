@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/html-template/js"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name=""
+   kind="dir"
+   committed-rev="82"/>
+<entry
+   checksum="90b8abd161dbd80f54956b911a129ec6"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="Browser.js"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="33f1dc3d307135a9bb25d40965769651"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="Events.js"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="15492b20ffefd7ea40b75595fdeddf8c"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="Functions.js"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="8b094d5ece3dafe3a83d382a7be5ce35"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="SWFAddress.js"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="c95d1417e335d9bd039f0521d7e25e2f"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="SWFAddressEvent.js"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="10b8bd0318678605d4154bce93e261c5"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="SWFAddressOptimizer.js"
+   kind="file"
+   committed-rev="82"/>
+</wc-entries>

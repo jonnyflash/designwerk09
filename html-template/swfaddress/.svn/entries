@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/html-template/swfaddress"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name=""
+   kind="dir"
+   committed-rev="82"/>
+<entry
+   checksum="ed97f492f912eaab022275a22b3c63e0"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="swfaddress.js"
+   kind="file"
+   committed-rev="82"/>
+</wc-entries>

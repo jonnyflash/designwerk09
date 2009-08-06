@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/view/assets/fonts"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name=""
+   kind="dir"
+   committed-rev="74"/>
+<entry
+   checksum="5db923a42861b651871f15390bb27594"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:11.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="Arial Black.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="c1d55f882f8ced5084e2fef8b2908253"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:11.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="Arial Bold Italic.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="c9df0565a79017811f9617e4295357c5"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:09.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="Arial Bold.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="781f7a4998e7c7752540e1e45f07352a"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:10.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="Arial Italic.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="e39ad943b94d3e64ade263af3a2298bf"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:08.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="Arial.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="b1f35e83d8acf5952dc8043ac75f3d5f"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:11.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="DIN-Black.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="a46cbc723ba28431d9b72c3b15c353bc"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:11.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="DIN-BlackAlternate.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="f6ddde9094df9a32e8dd5dd2b724a452"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:08.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="DIN-Bold.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="a52d72c38f5e2f9b4498103567fd7300"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:08.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="DIN-BoldAlternate.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="83ae9068960f2250742c5917b7bc06b0"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:09.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="DINMittelschrift-Alternate.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="a010601e96c7a843c21e90063408f66c"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:09.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="DINMittelschrift.otf"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="9e37c8edbc37ad08eea5078154c7e54b"
+   last-author="ffaerber@gmail.com"
+   prop-time="2009-07-21T15:38:11.000000Z"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="LucidaSans.otf"
+   kind="file"
+   committed-rev="74"/>
+</wc-entries>

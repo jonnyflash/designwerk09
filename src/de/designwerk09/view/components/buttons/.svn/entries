@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/view/components/buttons"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name=""
+   kind="dir"
+   committed-rev="81"/>
+<entry
+   checksum="1eef84f37ae0ed1c8b5113ffd7475597"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T07:14:01.000000Z"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   name="MainMenuTextButton.as"
+   kind="file"
+   committed-rev="80"/>
+<entry
+   checksum="5f8b8a1147006d16a7c73743c1c07d74"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T15:18:09.000000Z"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name="NumberButton.as"
+   kind="file"
+   committed-rev="81"/>
+<entry
+   checksum="8aedc37c65d2544992a2fa6ed6cd2285"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-02T15:32:19.000000Z"
+   committed-date="2009-07-02T15:32:19.290125Z"
+   name="TextButton.as"
+   kind="file"
+   committed-rev="76"/>
+</wc-entries>

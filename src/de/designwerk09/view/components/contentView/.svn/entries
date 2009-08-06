@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/view/components/contentView"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   name=""
+   kind="dir"
+   committed-rev="80"/>
+<entry
+   checksum="a3970ca6da6d812e758d39461922bdf0"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T07:14:01.000000Z"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   name="ImageView.as"
+   kind="file"
+   committed-rev="80"/>
+</wc-entries>

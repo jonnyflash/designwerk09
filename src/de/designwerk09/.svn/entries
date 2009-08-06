@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   kind="dir"
+   name=""
+   committed-rev="82"/>
+<entry
+   checksum="f720e00c2203b2c7abe7f405b7fd2d3e"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="ApplicationFacade.as"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   name="controller"
+   kind="dir"/>
+<entry
+   kind="dir"
+   name="model"/>
+<entry
+   kind="dir"
+   name="view"/>
+</wc-entries>

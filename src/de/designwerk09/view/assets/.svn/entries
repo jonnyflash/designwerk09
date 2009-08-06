@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/view/assets"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   kind="dir"
+   name=""
+   committed-rev="82"/>
+<entry
+   checksum="16255bb6a649121663fee607fc1d5d8c"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="AssetManager.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="b707d52a32c9456f3942b2b7ebfbc436"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="DWlogo.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="7a3b337d66c4b7752aba4dc8a1036330"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T07:14:01.000000Z"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   name="Leftbox_background.as"
+   kind="file"
+   committed-rev="80"/>
+<entry
+   checksum="c7631023c5d7a21547bbe4b30f418b58"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="Rightbox_background.as"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   kind="dir"
+   name="fonts"/>
+</wc-entries>

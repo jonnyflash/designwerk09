@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/view/components/submenu"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name=""
+   kind="dir"
+   committed-rev="82"/>
+<entry
+   checksum="f65b42b6e0bd6f833d73fa596dab2595"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T15:18:09.000000Z"
+   committed-date="2009-07-06T15:18:09.016866Z"
+   name="NumberMenu.as"
+   kind="file"
+   committed-rev="81"/>
+<entry
+   checksum="6c443d6853da3a42d84b453896ba1804"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="SubMenu.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="d740a9761afb08f4d098230fac70e19d"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="WorkNaviText.as"
+   kind="file"
+   committed-rev="82"/>
+</wc-entries>

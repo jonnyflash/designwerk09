@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/html-template/history"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name=""
+   kind="dir"
+   committed-rev="74"/>
+<entry
+   checksum="d259eb8de60231b44394917f36c4af65"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="history.css"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="d7391f0e6d31471549bb8936b8fcb996"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="history.js"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="d2256e510a3112d15fcf08a07fdde8b5"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="historyFrame.html"
+   kind="file"
+   committed-rev="74"/>
+</wc-entries>

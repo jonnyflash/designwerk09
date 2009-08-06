@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/view/components/events"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   name=""
+   kind="dir"
+   committed-rev="80"/>
+<entry
+   checksum="22d6c00dcd22b2a1091bdbffe3c7fe32"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T07:14:01.000000Z"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   name="ImageEvent.as"
+   kind="file"
+   committed-rev="80"/>
+<entry
+   checksum="45c524abfb9fbb122444f835c7b6869c"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="MainNaviEvent.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="653a0e2810e186103339b68b34627dc9"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="NaviEvent.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="46e09425436f7471aeb7e0d2e3ff9c27"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="SubNaviEvent.as"
+   kind="file"
+   committed-rev="74"/>
+</wc-entries>

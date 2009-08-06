@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/.settings"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name=""
+   kind="dir"
+   committed-rev="74"/>
+<entry
+   checksum="14324ba038e4701bfecc19b3857b57be"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="org.eclipse.core.resources.prefs"
+   kind="file"
+   committed-rev="74"/>
+</wc-entries>

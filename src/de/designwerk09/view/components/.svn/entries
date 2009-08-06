@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/view/components"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name=""
+   kind="dir"
+   committed-rev="82"/>
+<entry
+   name="buttons"
+   kind="dir"/>
+<entry
+   name="contentView"
+   kind="dir"/>
+<entry
+   kind="dir"
+   name="events"/>
+<entry
+   kind="dir"
+   name="mainmenu"/>
+<entry
+   kind="dir"
+   name="submenu"/>
+<entry
+   name="uberuns"
+   kind="dir"/>
+</wc-entries>

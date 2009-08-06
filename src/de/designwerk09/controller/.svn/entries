@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09/src/de/designwerk09/controller"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name=""
+   kind="dir"
+   committed-rev="82"/>
+<entry
+   checksum="eb0d16eba59569d6ced025fd3e4a8d0a"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="ChangeMainMenuCommand.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="002237e4dc4890627ced6aff10d3bb23"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-02T15:32:19.000000Z"
+   committed-date="2009-07-02T15:32:19.290125Z"
+   name="ChangeSubMenuCommand.as"
+   kind="file"
+   committed-rev="76"/>
+<entry
+   checksum="39e39f8605e5f0e2f574fc2f56e8c9e7"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="ChangeSubNumberMenuCommand.as"
+   kind="file"
+   committed-rev="74"/>
+<entry
+   checksum="6c64ee478a52ae2d52a755855be4fbb5"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T07:14:01.000000Z"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   name="KontaktCommand.as"
+   kind="file"
+   committed-rev="80"/>
+<entry
+   checksum="9fa98f4bbba27fe5786192cb3f46848b"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T22:34:11.000000Z"
+   committed-date="2009-06-29T22:34:11.791481Z"
+   name="RightboxCommand.as"
+   kind="file"
+   committed-rev="75"/>
+<entry
+   checksum="0d188c84acb430feea3f26f159097251"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-08T23:42:50.000000Z"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name="StartupCommand.as"
+   kind="file"
+   committed-rev="82"/>
+<entry
+   checksum="1fbd396a135a0506e1ab422911c7bd44"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-03T14:35:50.000000Z"
+   committed-date="2009-07-03T14:35:50.145080Z"
+   name="UberUnsCommand.as"
+   kind="file"
+   committed-rev="79"/>
+<entry
+   checksum="f7e1e5381feee05ab28a3f6c8081eaa5"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   name="WorkNaviCommand.as"
+   kind="file"
+   committed-rev="74"/>
+</wc-entries>

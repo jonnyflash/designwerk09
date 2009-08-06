@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://ffaerber.googlecode.com/svn"
+   revision="82"
+   url="https://ffaerber.googlecode.com/svn/trunk/designwerk09"
+   last-author="ffaerber@gmail.com"
+   uuid="bbeef463-5345-0410-84ef-4de035b4ea43"
+   committed-date="2009-07-08T23:42:50.770279Z"
+   name=""
+   kind="dir"
+   committed-rev="82"/>
+<entry
+   checksum="a739ff63c888f02d181a76d45e2d7b8f"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-07-06T07:14:01.000000Z"
+   committed-date="2009-07-06T07:14:01.307595Z"
+   kind="file"
+   name=".actionScriptProperties"
+   committed-rev="80"/>
+<entry
+   checksum="70fd9c4137d370923e3d9005141671b5"
+   last-author="ffaerber@gmail.com"
+   text-time="2009-06-29T19:20:25.000000Z"
+   committed-date="2009-06-29T19:20:25.461658Z"
+   kind="file"
+   name=".project"
+   committed-rev="74"/>
+<entry
+   name=".settings"
+   kind="dir"/>
+<entry
+   kind="dir"
+   name="html-template"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>
